@@ -1,0 +1,10 @@
+{
+    "name": "com.yourcompany.vpncontrol",
+    "description": "Control Wireguard VPN",
+    "path": "/path/to/your/executable",
+    "type": "stdio",
+    "allowed_origins": [
+      "chrome-extension://<your-extension-id>/"
+    ]
+  }
+  
